@@ -1,0 +1,15 @@
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\bin\Debug\net8.0\Ejercicio7-Itinerario3.exe
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\bin\Debug\net8.0\Ejercicio7-Itinerario3.deps.json
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\bin\Debug\net8.0\Ejercicio7-Itinerario3.runtimeconfig.json
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\bin\Debug\net8.0\Ejercicio7-Itinerario3.dll
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\bin\Debug\net8.0\Ejercicio7-Itinerario3.pdb
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.AssemblyInfoInputs.cache
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.AssemblyInfo.cs
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.csproj.CoreCompileInputs.cache
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.sourcelink.json
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.dll
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\refint\Ejercicio7-Itinerario3.dll
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.pdb
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\Ejercicio7-Itinerario3.genruntimeconfig.cache
+D:\repos\EjerciciosPOO-UAI\Ejercicio7-Itinerario3\obj\Debug\net8.0\ref\Ejercicio7-Itinerario3.dll

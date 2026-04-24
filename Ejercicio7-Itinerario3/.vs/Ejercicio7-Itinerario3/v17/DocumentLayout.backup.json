@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\EjerciciosPOO-UAI\\Ejercicio7-Itinerario3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC38B2D-51B2-42F9-B7B6-0B3E070BF543}|Ejercicio7-Itinerario3.csproj|d:\\repos\\ejerciciospoo-uai\\ejercicio7-itinerario3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC38B2D-51B2-42F9-B7B6-0B3E070BF543}|Ejercicio7-Itinerario3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CC38B2D-51B2-42F9-B7B6-0B3E070BF543}|Ejercicio7-Itinerario3.csproj|d:\\repos\\ejerciciospoo-uai\\ejercicio7-itinerario3\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CC38B2D-51B2-42F9-B7B6-0B3E070BF543}|Ejercicio7-Itinerario3.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\repos\\EjerciciosPOO-UAI\\Ejercicio7-Itinerario3\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "D:\\repos\\EjerciciosPOO-UAI\\Ejercicio7-Itinerario3\\Persona.cs*",
+              "RelativeToolTip": "Persona.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:23:46.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repos\\EjerciciosPOO-UAI\\Ejercicio7-Itinerario3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\repos\\EjerciciosPOO-UAI\\Ejercicio7-Itinerario3\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:22:23.152Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
